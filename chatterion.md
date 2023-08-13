@@ -140,3 +140,26 @@ Contact Information
 Address: Schloßstraße 31, 76726 Germersheim, Germany
 
 Email: info@maxim-janz.com
+
+Impressum
+=========
+
+Angaben gemäß § 5 TMG
+---------------------
+
+Maxim Janz  
+Schlossstrasse 31  
+76726 Germersheim
+
+Kontakt
+-------
+
+Telefon: \[Telefonnummer\]  
+E-Mail: info@maxim-janz.com
+
+Verbraucher­streit­beilegung/Universal­schlichtungs­stelle
+----------------------------------------------------------
+
+Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
+Quelle: [https://www.e-recht24.de](https://www.e-recht24.de)
